@@ -14,31 +14,31 @@ restaurants_attributes = [
   {
     name:         'Dishoom',
     address:      '7 Boundary St, London E2 7JE',
-    category:     'Italian',
+    category:     'italian',
     phone_number:        '34 32 25 12 35'
   },
   {
     name:         'Pizza East',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    category:     'Italian',
+    category:     'italian',
     phone_number: '02 32 35 83 82'
   },
   {
     name:         'Hunan Kitchen',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    category:     'Chinese',
+    category:     'chinese',
     phone_number: '02 32 34 09 82'
   },
   {
     name:         'Pizza West',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    category:     'French',
+    category:     'french',
     phone_number: '02 32 35 83 82'
   },
   {
     name:         'Waffle Waflle Waffle',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    category:     'Belgian',
+    category:     'belgian',
     phone_number: '02 32 35 83 98'
   }
 ]
